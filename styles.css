@@ -1,0 +1,22 @@
+#box{width: 1000px;
+height: 100px;
+background-color: blueviolet;
+padding:100px;
+margin-left:250px  ;}
+
+body{
+background-color: blue;
+}
+p{color: pink;}
+
+b{color: yellow;}
+
+section {
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+
+
+
+
